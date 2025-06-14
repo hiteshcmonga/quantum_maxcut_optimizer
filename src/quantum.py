@@ -1,4 +1,4 @@
-# src/qdo/quantum.py
+# src/quantum.py
 
 import networkx as nx
 import numpy as np

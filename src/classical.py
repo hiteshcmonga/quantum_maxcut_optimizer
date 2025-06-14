@@ -1,4 +1,4 @@
-# src/qdo/classical.py
+# src/classical.py
 
 import networkx as nx
 import random

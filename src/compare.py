@@ -1,4 +1,4 @@
-# src/qdo/compare.py
+# src/compare.py
 
 import matplotlib.pyplot as plt
 import networkx as nx

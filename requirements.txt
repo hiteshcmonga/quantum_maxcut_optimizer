@@ -4,3 +4,4 @@ matplotlib
 networkx
 docplex
 uvicorn[standard]
+fastapi
