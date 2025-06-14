@@ -1,4 +1,4 @@
-# Quantum Max-Cut Comparator
+# Hybrid Max-Cut solver
 A hybrid classical–quantum solver for the Max-Cut problem.
 Key features:
 - Quantum Approximate Optimization Algorithm (QAOA) via Qiskit
