@@ -1,0 +1,5 @@
+qiskit
+qiskit-optimization
+matplotlib
+networkx
+docplex

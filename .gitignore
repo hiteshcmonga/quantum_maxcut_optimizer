@@ -1,0 +1,53 @@
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Virtual environments
+.env/
+.venv/
+env/
+venv/
+*.egg-info/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Output / build folders
+dist/
+build/
+*.egg
+
+# VSCode settings
+.vscode/
+
+# Spyder settings
+.spyderproject
+.spyproject
+
+# Python profiling / coverage
+htmlcov/
+.coverage
+.cache
+.pytest_cache/
+
+# Qiskit transpiler cache
+*.qasm
+*.qobj
+
+# Secrets / keys
+*.pem
+*.key
+.env.*
+
+# Docker & CI
+docker-compose.override.yml
