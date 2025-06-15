@@ -5,3 +5,4 @@ networkx
 docplex
 uvicorn[standard]
 fastapi
+prometheus-client
